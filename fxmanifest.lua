@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name 'AS-lockerprops'
+name 'as-lockerprops'
 author 'ACE Studios'
 description 'Streamed assets for the Postal Prime locker wall - wall model, parcel box models, textures and door animations. No scripts, just props.'
 version '1.0.0'
